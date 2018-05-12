@@ -1,10 +1,14 @@
 _repo: Prayers-of-the-Middle-Ages-Light-from-a-Thousand-Years_48242
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Potts, James Manning
       gutenberg_agent_id: '44696'
       url: http://www.gutenberg.org/2009/agents/44696
+covers:
+- cover_type: archival
+  image_path: 48242-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48242#Prayers-of-the-Middle-Ages-Light-from-a-Thousand-Years
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
